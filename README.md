@@ -45,7 +45,7 @@ Busco formar parte de un equipo donde pueda **crecer profesionalmente** y enfren
 
 ### 📫 Contacto
 
-**Email:** [octaviopendino@gmail.com](mailto:octaviopendino@gmail.com)  
+**Email:** [pendino.octavio@gmail.com](mailto:pendino.octavio@gmail.com)  
 **LinkedIn:** [linkedin.com/in/octaviopendino](https://www.linkedin.com/in/octavio-pendino-235648256/)  
 **GitHub:** [github.com/octaviopendino](https://github.com/octapendino)
 
