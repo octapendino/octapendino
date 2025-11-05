@@ -20,16 +20,16 @@ Me caracterizo por ser:
 
 ### 🧰 Tecnologías y herramientas
 
-**💬 Lenguajes:**  
+**Lenguajes:**  
  Java •  Python •  C •  C++ •  C#
 
-**🌐 Desarrollo Web:**  
+**Desarrollo Web:**  
  Spring Boot • .NET • API REST •  Angular •  HTML/CSS/TypeScript
 
-** Bases de Datos:**  
-🧾 SQL (PostgreSQL, MySQL)
+**Bases de Datos:**  
+ SQL (PostgreSQL, MySQL)
 
-** Otros conocimientos:**  
+**Otros conocimientos:**  
 - Redes y sistemas  
 - Control de versiones con Git/GitHub  
 - Docker y entornos de desarrollo
@@ -45,9 +45,9 @@ Busco formar parte de un equipo donde pueda **crecer profesionalmente** y enfren
 
 ### 📫 Contacto
 
-📧 **Email:** [octaviopendino@gmail.com](mailto:octaviopendino@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/octaviopendino](https://www.linkedin.com/in/octavio-pendino-235648256/)  
-🐙 **GitHub:** [github.com/octaviopendino](https://github.com/octapendino)
+**Email:** [octaviopendino@gmail.com](mailto:octaviopendino@gmail.com)  
+**LinkedIn:** [linkedin.com/in/octaviopendino](https://www.linkedin.com/in/octavio-pendino-235648256/)  
+**GitHub:** [github.com/octaviopendino](https://github.com/octapendino)
 
 <!--
 **octapendino/octapendino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
