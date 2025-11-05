@@ -11,26 +11,25 @@ Soy una persona **proactiva, responsable y apasionada por la tecnología**, con 
 Actualmente busco mi **primera oportunidad profesional en el área IT** para seguir aprendiendo y aportar valor a un equipo de trabajo.  
 
 Me caracterizo por ser:
-- 💡 Curioso y con gusto por el aprendizaje continuo  
-- 🤝 Colaborador y con buena comunicación  
-- 🧠 Analítico y orientado a la resolución de problemas  
-- ⚙️ Perseverante y detallista en cada proyecto  
+- Curioso y con gusto por el aprendizaje continuo  
+- Colaborador y con buena comunicación  
+- Analítico y orientado a la resolución de problemas  
+- Perseverante y detallista en cada proyecto  
 
 ---
 
 ### 🧰 Tecnologías y herramientas
 
 **💬 Lenguajes:**  
-☕ Java • 🐍 Python • 💻 C • ⚙️ C++ • 🧩 C#
+ Java •  Python •  C •  C++ •  C#
 
 **🌐 Desarrollo Web:**  
-🧱 Spring Boot • 🌿 API REST • ⚡ Angular • 🌐 HTML/CSS/TypeScript
+ Spring Boot • .NET • API REST •  Angular •  HTML/CSS/TypeScript
 
-**🗄️ Bases de Datos:**  
+** Bases de Datos:**  
 🧾 SQL (PostgreSQL, MySQL)
 
-**🧰 Otros conocimientos:**  
-- .NET  
+** Otros conocimientos:**  
 - Redes y sistemas  
 - Control de versiones con Git/GitHub  
 - Docker y entornos de desarrollo
